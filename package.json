@@ -1,0 +1,16 @@
+{
+  "name": "portfolio-website",
+  "version": "1.0.0",
+  "description": "My Portfolio Website",
+  "main": "gulpfile.js",
+  "scripts": {
+    "build": "gulp css",
+    "watch": "gulp watch"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.0",
+    " tailwindcss": "^2.2.19",
+    "gulp": "^4.0.2",
+    "gulp-postcss": "^9.0.1"
+  }
+}
